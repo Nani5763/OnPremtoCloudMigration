@@ -3,10 +3,8 @@
       "Description": "ubuntu os",
       "Format": "ova",
       "UserBucket": {
-        "S3Bucket": "vmimportbyubuntubypavansai",
-        "S3Key": "Server.ova"
+        "S3Bucket": "vmimportbyubuntubypavan",
+        "S3Key": "Server/Server.ova"
       }
     }
   ]
-  
-  
