@@ -4,7 +4,7 @@
       "Format": "ova",
       "UserBucket": {
         "S3Bucket": "vmimportbyubuntubypavan",
-        "S3Key": "Server/Server.ova"
+        "S3Key": "Server-1.ova"
       }
     }
   ]
